@@ -1,2 +1,2 @@
 # tidytuesdays
-My contributions to #TidyTuesdays.
+My contributions to #TidyTuesday's.
